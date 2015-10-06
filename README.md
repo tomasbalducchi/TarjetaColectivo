@@ -1,2 +1,0 @@
-# TarjetaColectivo
-dd
